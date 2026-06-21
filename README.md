@@ -29,6 +29,14 @@ legal-services-website/
 │── assets/
 │── images/
 ```
+<h2>DISCLAIMER Page</h2>
+<img src="DISCLAIMER.png" width="700">
+
+<h2>About</h2>
+<img src="ABOUT.png" width="700">
+
+<h2>Contact</h2>
+<img src="CONTACT.png" width="700">
 
 ## 🌐 Live Demo
 
